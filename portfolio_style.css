@@ -49,11 +49,11 @@ body{
 }
 
 .links{
-    padding: 10px;
+    padding: 20px;
     border: 1px solid rgb(98, 143, 153);
     color: rgb(98, 143, 153);
     background: none;
-    font-size: 100%;
+    font-size: 80%;
 }
 
 .links:hover{
@@ -64,7 +64,7 @@ body{
 .project{
     margin-top: 100px;
     text-align: center;
-    font-size: 125%;
+    font-size: 175%;
 }
 
 @media screen and (max-width: 1200px) {
