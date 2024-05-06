@@ -53,20 +53,21 @@ body{
     color: rgb(105, 170, 170);
     text-align: center;
     margin: 0 auto;
-    font-size: 50px;
-    width: 500px;
+    font-size: 500%;
+    width: 80%;
     border-bottom: 5px solid rgb(105, 170, 170);
 }
 
 .git-img, .in-img{
     filter: invert(100%) brightness(50%);
-    height: 100px;
+    height: 20%;
+    height: 150px;
 }
 
 .in-img{
     filter: invert(100%) brightness(45%);
-    margin-top: 10px;
-    height: 80px;
+    margin-top: 15px;
+    height: 120px;
 }
 
 .git-img:hover, .in-img:hover{
@@ -80,14 +81,14 @@ body{
 
 .email-button{
     background: none;
-    width: 280px;
-    font-size: 25px;
+    width: 30%;
+    font-size: 200%;
     padding: 15px;
     border: 2px rgb(129, 136, 128) solid;
     border-radius: 20px;
     display: block;
     margin-left: auto;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-right: auto;
 }
 
